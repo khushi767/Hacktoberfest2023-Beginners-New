@@ -132,3 +132,9 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [khushi kumari](https://github.com/khushi767)
+
+- Place: Moga, Punjab, India
+- Bio: Frontend developer, Book lover
+- GitHub: [khushi767](https://github.com/khushi767)
